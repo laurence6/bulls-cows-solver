@@ -15,7 +15,7 @@ char set (default: "0123456789"): [↵]
 
 ## License
 
-Copyright (C) 2018-2018  Laurence Liu <liuxy6@gmail.com>
+Copyright (C) 2018-2019  Laurence Liu <liuxy6@gmail.com>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
